@@ -1,0 +1,7 @@
+{
+    "IDX.aI.enableInlineCompletion": true,
+    "IDX.aI.enableCodebaseIndexing": true,
+    "editor.fontSize": 25,
+    "editor.fontFamily": "'JetBrains Mono'" ,
+    "code-runner.runInTerminal": true
+}
