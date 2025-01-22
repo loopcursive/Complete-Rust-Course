@@ -1,5 +1,4 @@
-fn main(){
-
+fn main() {
     print!("Hello Abhishek ");
     print!("1234 ");
     print!("23");
@@ -11,5 +10,4 @@ fn main(){
     println!("Hello world");
 
     println!("Hello world");
-
 }

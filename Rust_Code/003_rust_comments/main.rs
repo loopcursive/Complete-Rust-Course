@@ -1,10 +1,10 @@
-fn main(){
+fn main() {
     println!("Abhishek"); // first name
-    println!("Kumar");    // second name
+    println!("Kumar"); // second name
 
     // this is single line comment
 
-    /* djkfhgfu 
+    /* djkfhgfu
     fughdfjg h
     djfhg */
 
@@ -16,5 +16,4 @@ fn main(){
     println!("Abhishek"); // this code pritns Abhishek
 
     // println!("Abhishek123");
-
 }
