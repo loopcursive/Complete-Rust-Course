@@ -14,8 +14,7 @@ fn main(){
     let A = 98;
     println!("{}", A);
 
-    let let = 45;
+    // let let = 45;
     // println!("{}", let);
-
 
 }
