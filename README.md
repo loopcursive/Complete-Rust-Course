@@ -18,18 +18,15 @@ The course follows a **step-by-step approach** covering:
 - **Advanced Topics** (Macros, Unsafe Rust, WebAssembly, etc.)  
 
 ## 📂 How to Use This Repository  
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/loopcursive/Complete-Rust-Course.git
-   ```
-2. Navigate to the project folder:  
-   ```bash
-   cd Complete-Rust-Course
-   ```
-3. Open the **code files** and **PDF notes** to learn and practice.  
+Clone the repo:  
+```bash
+git clone https://github.com/loopcursive/Complete-Rust-Course.git
+```
+Open the **code files** and **PDF notes** to learn and practice.  
 
 ## 📺 Watch the Full Course  
-Check out the complete video series on my **[YouTube Channel: LoopCursive](https://www.youtube.com/@LoopCursive)**. Don't forget to **like, share, and subscribe** for more Rust content! 🚀  
+Check out the complete video series on my **[Rust Playlist](https://www.youtube.com/playlist?list=PLRuqvIc0eAmoWgYY99q0jidrgm098T6qk)** on YouTube!  
+Don't forget to **like, share, and subscribe** for more Rust content! 🚀  
 
 ## 🤝 Contribute  
 If you find any mistakes or have suggestions, feel free to create a **pull request** or open an **issue**.  
