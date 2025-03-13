@@ -1,7 +1,3 @@
-Here's your updated README with the correct repository link:  
-
----
-
 # 🚀 Complete Rust Course - Code & Notes  
 
 Welcome to the **Complete Rust Course** repository! 🎯 This repo contains all the **code and PDF notes** from my Rust course available on my YouTube channel, [LoopCursive](https://www.youtube.com/@LoopCursive).  
@@ -41,7 +37,3 @@ If you find any mistakes or have suggestions, feel free to create a **pull reque
 ### ⭐ Star this repository if you find it helpful!  
 
 Happy Coding! 🚀🦀  
-
----
-
-Let me know if you want any tweaks! 😊
