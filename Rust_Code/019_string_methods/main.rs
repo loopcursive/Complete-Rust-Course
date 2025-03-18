@@ -65,5 +65,3 @@ fn main() {
     let mut s13 = 100;
     println!("{}", s13.to_string() == "100");
 }
-
-
